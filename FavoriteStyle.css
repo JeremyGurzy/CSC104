@@ -1,0 +1,35 @@
+body{
+	background-color:  #9ab7d7;
+
+}
+ /* Text has a medium blue font color with a black shadow to make text more presentable */ 
+h1{
+	color: #3465b3;
+	text-shadow:0 0 2px #000000;
+	font-family: 'Times New Roman', Times, serif;
+	
+}
+ /* Reversed text color and shadow from h3 tags to present "Article I" */
+h2{
+	color: #c00202;
+	text-shadow:0 0 2px blue;
+	font-family: 'Times New Roman', Times, serif;
+}
+ /* All h3 tag texts have blue font color and a red shadow to make text more presentable */
+h3{
+	color: #1808bf;
+	text-shadow:0 0 2px rgb(255, 0, 0);
+	font-family: 'Times New Roman', Times, serif;
+	border-style: solid;
+}
+ /* Gave paragraph texts a magenta text shadow, added borders around paragraphs and added light blue backgrounds*/
+p{
+	color: #080606;
+	text-shadow:0 0 2px rgb(152, 13, 152);
+	font-family: 'Times New Roman', Times, serif;
+	background-color: #6599d2;
+	border-style: double;
+	
+}
+/*All CSS designs were made for easiness on users eyesight. Hope you like!*/
+/*Experimented with borders to make paragraphs and sections more presentable*/
